@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# Data Fetching with `fetch` in React.js and TypeScript
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
